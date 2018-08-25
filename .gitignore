@@ -1,0 +1,4 @@
+node_modules/
+*/dist/*
+docs/.vuepress/dist/404.html
+docs/.vuepress/dist/
