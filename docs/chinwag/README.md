@@ -1,1 +1,2 @@
 - [go path](./go_path.md)
+- [Java learning](./java_learning.md)
