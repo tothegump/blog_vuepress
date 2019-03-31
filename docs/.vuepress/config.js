@@ -12,6 +12,7 @@ module.exports = {
       { text: 'distributed-system', link: '/distributed-system/' },
       { text: 'chinwag', link: '/chinwag/' },
       { text: 'reading', link: '/reading/' },
+      { text: 'Python', link: '/python/' },
       { text: 'arts', link: '/arts/' },
       { text: 'blog', link: 'https://tothegump.github.io' },
     ]
