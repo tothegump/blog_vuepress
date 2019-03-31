@@ -1,1 +1,2 @@
 - [WSGI 简介](./reading-being-logical.md)
+- [Python, Kafka, Faust](./python_kafka_faust.md)
