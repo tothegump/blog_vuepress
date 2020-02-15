@@ -4,10 +4,10 @@
 set -e
 
 # build
-npm run docs:build
+yarn build
 
 # navigate into the build output directory
-cd docs/.vuepress/dist
+cd blog/.vuepress/dist
 
 # if you are deploying to a custom domain
 echo 'blog.tothegump.com' > CNAME

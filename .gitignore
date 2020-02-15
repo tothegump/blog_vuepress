@@ -1,6 +1,6 @@
 node_modules/
 */dist/*
-docs/.vuepress/dist/404.html
-docs/.vuepress/dist/
+blog/.vuepress/dist/404.html
+blog/.vuepress/dist/
 .DS_Store
 

@@ -1,2 +1,0 @@
-- [一篇关于 Failure 的文章](./intro-failure-semantics.md)
-- [Distributed Transaction Processing (一)](./dtp-1.md)
