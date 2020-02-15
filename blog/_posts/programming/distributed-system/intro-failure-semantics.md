@@ -1,3 +1,9 @@
+---
+title: 一篇关于 Failure 的文章
+date: 2018-09-25
+tags: distributed system
+---
+
 # 一篇关于 Failure 的文章
 ## 背景
 Wikipedia 真是一个精彩的世界，在看关于 Byzantine fault tolerance 的解释，其中提到了

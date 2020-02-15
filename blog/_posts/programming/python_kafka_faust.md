@@ -1,3 +1,11 @@
+---
+title: Python, Kafka, Faust
+date: 2018-06-18 10:07:29
+tags:
+    - python
+    - kafka
+---
+
 # Python, Kafka, Faust
 Kafka 的 client 端语言栈并不丰富，Python 一直没有一个好用的框架。查了一圈，底层的客户端有好几个，`kafka-python`, `confluent-kafka-python`, 似乎没问题，但实际上，这些都太底层了，缺少好用的封装。如果想要在生产环境使用这些，少不了写很多封装，处理各种边边角角的情况，比如说部署，就要有不少套路代码要写。
 最容易出现的想法是，要是 Kombu 支持 Kafka 就好了，这样可以直接使用 celery 来无缝衔接 kafka. 查了一圈发现，并没有。

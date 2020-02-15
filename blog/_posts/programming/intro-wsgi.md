@@ -1,7 +1,10 @@
 ---
 title: 简单聊下 WSGI
 date: 2018-08-06 09:41:19
-tags: little-target wsgi python web-server
+tags:
+    - wsgi
+    - python
+    - web-server
 ---
 
 ## WSGI 是个什么？

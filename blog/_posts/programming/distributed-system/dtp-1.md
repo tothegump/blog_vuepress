@@ -1,7 +1,7 @@
 ---
 title: 分布式事务探索（一） DTP 模型
 date: 2018-06-18 10:07:29
-tags: dtp 分布式
+tags: distributed system
 ---
 
 ## 背景
