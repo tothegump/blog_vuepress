@@ -1,11 +1,12 @@
 ---
-title: Go 并发模式：  Pipelines and cancellation 
+title: [翻译]Go 并发模型: Pipelines and cancellation
 date: 2020-03-02
 tags:
   - golang
   - translate
   - go-blog
 ---
+
 > 我自己随便记录看过的 go-blog 中的文章，并不保证语句通顺，所以看原文跟合适
 > 原文地址: https://blog.golang.org/pipelines
 
@@ -502,3 +503,4 @@ Further reading:
 - Go Concurrency Patterns (video) presents the basics of Go's concurrency primitives and several ways to apply them.
 - Advanced Go Concurrency Patterns (video) covers more complex uses of Go's primitives, especially select.
 - Douglas McIlroy's paper Squinting at Power Series shows how Go-like concurrency provides elegant support for complex calculations.
+
