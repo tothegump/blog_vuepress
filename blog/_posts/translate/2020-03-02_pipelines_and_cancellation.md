@@ -6,6 +6,10 @@ tags:
   - translate
   - go-blog
 ---
+
+> 我自己随便记录看过的 go-blog 中的文章，并不保证语句通顺，所以看原文跟合适
+> 原文地址: https://blog.golang.org/pipelines
+
 # Go Concurrency Patterns: Pipelines and cancellation
 ## Introduction
 Go’s concurrency primitives 使得构建数据流管道来充分利用 I/O 和多核 CPU 非常容易。这篇文章展现了几个例子，跟管道，尤其是操作失败的细节，介绍了干净处理失败的技术。
@@ -499,3 +503,4 @@ Further reading:
 - Go Concurrency Patterns (video) presents the basics of Go's concurrency primitives and several ways to apply them.
 - Advanced Go Concurrency Patterns (video) covers more complex uses of Go's primitives, especially select.
 - Douglas McIlroy's paper Squinting at Power Series shows how Go-like concurrency provides elegant support for complex calculations.
+
